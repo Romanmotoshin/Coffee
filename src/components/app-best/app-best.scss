@@ -1,0 +1,18 @@
+.best {
+    padding-top: 80px;
+    min-height: 495px;
+    background: url('../../img/Bestbg.jpg') no-repeat center center/cover ;
+    &_header {
+        text-align: center;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 24px;
+        color: #000000;
+    }
+    &_items {
+        margin: 39px 170px 0 170px;
+        display: flex;
+        justify-content: space-between;
+    }
+}

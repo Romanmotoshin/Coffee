@@ -1,0 +1,20 @@
+.about {
+    min-height: 500px;
+    &_header {
+        text-align: center;
+        margin-top: 80px;
+    }
+    &_text {
+        margin: 40px auto 0 auto;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+        color: #000000;
+        width: 589px;
+    }
+    &_secondtext {
+        margin: 15px auto 0 auto; 
+    }
+}
